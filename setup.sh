@@ -1,0 +1,1 @@
+sudo cp ./cdw.sh /usr/bin/cdw
